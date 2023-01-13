@@ -1,0 +1,9 @@
+access_key                  = "AKIARURAGEM5NPI3GY64"
+secret_key                  = "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"
+ami                         = "ami-00482f016b2410dc8"
+subnet_id                   = "subnet-075ec1c04f8d0cf50"
+identity                    = "awsaccount"
+region                      = "us-east-1"
+vpc_security_group_ids      = ["sg-0e82758f26af0c4f7"]
+bucket                 = "gsr-tf202-training-bucket"
+acl                    = "private"
