@@ -5,5 +5,5 @@ subnet_id                   = "subnet-075ec1c04f8d0cf50"
 identity                    = "awsaccount"
 region                      = "us-east-1"
 vpc_security_group_ids      = ["sg-0e82758f26af0c4f7"]
-bucket                 = "gsr-tf202-training-bucket"
+bucket                 = "gsr7-tf202-training-bucket"
 acl                    = "private"
